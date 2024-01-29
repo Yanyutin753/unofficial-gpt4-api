@@ -2,9 +2,7 @@
 
 ## 使用方法
 
-### 一键部署PandoraNext和tokensTool(最强推荐)
-
-#### 将直接拉取最新版本的PandoraNext和tokensTool
+### 一键部署gpt4-copilot-java-sh(最强推荐)
 
 ```
 # 安装git
