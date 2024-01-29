@@ -23,7 +23,7 @@ cd / && git clone https://github.com/Yanyutin753/gpt4-copilot-java-sh.git
 # 运行脚本
 cd /gpt4-copilot-java-sh && sudo sh install.sh
 
-# 一键更新pandoraNext和tokensTool服务
+# 一键更新gpt4-copilot-java服务
 cd /gpt4-copilot-java-sh && sudo sh update.sh
 
 # 更新update.sh或者install.sh
