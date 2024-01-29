@@ -82,7 +82,7 @@ else
 fi
 
 # 设置目标目录
-target_dir="/gpt4-copilot-java"
+target_dir="/"
 
 # 检查目标目录是否已经存在
 if [ -d "$target_dir" ]; then
