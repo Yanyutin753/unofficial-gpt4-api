@@ -3,11 +3,12 @@
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/yangclivia/gpt4-copilot-java/latest)![Docker Pulls](https://img.shields.io/docker/pulls/yangclivia/gpt4-copilot-java)[![GitHub Repo stars](https://img.shields.io/github/stars/Yanyutin753/gpt4-copilot-java-sh?style=social)](https://github.com/Yanyutin753/gpt4-copilot-java-sh/stargazers)
 
 ### 不准白嫖，请给我免费的star⭐吧，十分感谢！
-> 
-> ## 简介
-> 
-> [gpt4-copilot-java](https://github.com/Yanyutin753/gpt4-copilot-java-sh) 中转copilot，cocopilot，回复流畅，支持高并发，支持一键脚本部署，小白也能快速使用！
->[gpt4 copilot Java](https://github.com/Yanyutin753/gpt4-copilot-java-sh) Transfer Copilot, Copilot, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
+
+## 简介 
+#### [gpt4-copilot-java](https://github.com/Yanyutin753/gpt4-copilot-java-sh) 中转copilot，cocopilot，回复流畅，支持高并发，支持一键脚本部署，小白也能快速使用！
+#### [gpt4 copilot Java](https://github.com/Yanyutin753/gpt4-copilot-java-sh) Transfer Copilot, Copilot, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
+
+-----
 
 > ## 功能特性
 > 
@@ -26,6 +27,11 @@
 ## [✨点击查看文档站](https://apifox.com/apidoc/shared-4301e565-a8df-48a0-85a5-bda2c4c3965a)
 
 <details>
+<summary>
+
+     简略文档，请点击上面连接跳转详细使用部署文档站
+</summary>
+
 ## 一键部署gpt4-copilot-java-sh(最强推荐)
 
 ```
@@ -173,6 +179,6 @@ docker-compose up -d
 
 > [!caution]
 >
->❗使用copilot使用GPT-4有风险😂，可能会导致Github封号，请自行注册小号，小范围谨慎使>用!!!!!!#
->！！！本工具🥰只提供转发copilot和始皇的cocopilot接口
->🦄感谢CaoYunzhou提供的实例
+> * ❗使用copilot和cocopilot使用GPT-4有风险😂，可能会导致Github封号，请自行注册小号，小范围谨慎使>用!!!!!!
+> * ！！！本工具🥰只提供转发copilot和始皇的cocopilot接口
+> * 🦄感谢CaoYunzhou提供的实例
