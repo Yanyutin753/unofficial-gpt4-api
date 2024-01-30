@@ -89,7 +89,7 @@ if [ -d "$target_dir" ]; then
     confirm_delete
 fi
 
-echo "克隆 gitee 仓库到目标目录并切换到主分支"
+echo "克隆 github 仓库到目标目录并切换到主分支"
 git clone https://github.com/Yanyutin753/easy-gpt4-copilot-java.git /gpt4-copilot-java
 echo "克隆成功"
 
