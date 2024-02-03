@@ -182,3 +182,12 @@ docker-compose up -d
 > * 使用copilot和cocopilot使用GPT-4有风险，可能会导致Github封号，请自行注册小号😂
 > * 本项目只提供转发copilot和始皇的cocopilot接口🥰
 > * 感谢CaoYunzhou提供的实例🦄
+
+### 新增群聊，点了⭐️可以进群讨论部署，我把你们拉进群，无广，广子踢掉
+<img src="https://github.com/Yanyutin753/PandoraNext-TokensTool/assets/132346501/6544e8ed-6673-48f9-95a6-c13255acbab1" width="300" height="300">
+
+### 请给我一个免费的⭐吧！！！
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Yanyutin753/gpt4-copilot-java-sh&type=Date)](https://star-history.com/#Yanyutin753/gpt4-copilot-java-sh&Date)
