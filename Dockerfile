@@ -8,7 +8,7 @@ LABEL maintainer="Yanyutin753"
 USER root
 
 # 复制JAR文件到容器的/app目录下
-COPY gpt4-copilot-java-0.0.2.jar /app/app.jar
+COPY gpt4-copilot-java-0.0.3.jar /app/app.jar
 
 # 切换到/app目录
 WORKDIR /app
