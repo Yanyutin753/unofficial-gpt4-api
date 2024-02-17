@@ -1,0 +1,14 @@
+version: '3' 
+
+services:        
+  gpt4-copilot-java:  
+    # 该服务使用的 Docker 镜像
+    image: yangclivia/gpt4-copilot-java:latest
+    # 为该服务创建的容器的名称
+    container_name: gpt4-copilot-java
+    volumes:
+      - ./config/config.json:/config.json
+    ports:
+      - "8081:8080"
+    # 容器总是重新启动
+    restart: always  
