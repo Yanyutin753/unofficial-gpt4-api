@@ -152,7 +152,7 @@ docker-compose up -d
 ### 待续......
 
 
-## **config.json环境变量**
+## **[config.json](https://github.com/Yanyutin753/gpt4-copilot-java-sh/blob/main/config/config.json)环境变量**
 
 - **启动端口号**：
     * `serverPort`= 8080
