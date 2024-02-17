@@ -1,0 +1,10 @@
+{
+  "gpt3_sleepTime": 0,
+  "password": "",
+  "get_token_url": "",
+  "prefix": "",
+  "vscode_version": "vscode\/1.85.2",
+  "serverPort": 8081,
+  "maxPoolSize": 300,
+  "gpt4_sleepTime": 110
+}
