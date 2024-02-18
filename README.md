@@ -186,6 +186,7 @@ docker-compose up -d
 >
 > * 使用copilot和cocopilot使用GPT-4有风险，可能会导致Github封号，请自行注册小号😂
 > * 本项目只提供转发copilot和始皇的cocopilot接口🥰
+> * 如遇不能部署，请把镜像调整为yangclivia/gpt4-copilot-java:jar-latest
 > * 感谢CaoYunzhou提供的实例🦄
 > * 如需二开请自行前往[源码库](https://github.com/Yanyutin753/GPT4-Copilot)
 
