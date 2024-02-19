@@ -1,6 +1,6 @@
 # gpt4-copilot-java
 
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/yangclivia/gpt4-copilot-java/latest)![Docker Pulls](https://img.shields.io/docker/pulls/yangclivia/gpt4-copilot-java)[![GitHub Repo stars](https://img.shields.io/github/stars/Yanyutin753/gpt4-copilot-java-sh?style=social)](https://github.com/Yanyutin753/gpt4-copilot-java-sh/stargazers)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/yangclivia/gpt4-copilot-java/latest)![Docker Pulls](https://img.shields.io/docker/pulls/yangclivia/gpt4-copilot-java)[![GitHub Repo stars](https://img.shields.io/github/stars/Yanyutin753/gpt4-copilot-java?style=social)](https://github.com/Yanyutin753/gpt4-copilot-java/stargazers)
 
 ### 请给我免费的star⭐吧，十分感谢！
 
