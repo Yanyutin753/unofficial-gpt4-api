@@ -180,14 +180,22 @@ docker-compose up -d
      
 -  **自定义vscode的版本**（默认为vscode/1.85.2）
      - `vscode_version` = vscode/1.85.2
+       
+-  **对于单个密钥每分钟限制请求次数（单位次/每分钟）**
+     - copilot服务
+         - `one_copilot_limit` = 30
+     - coCopilot服务
+         - `one_coCopilot_limit` = 30
+     - selfCopilot服务
+         - `one_selfCopilot_limit` = 30
 
 --------
 </details>
 
 > [!caution]
 >
-> * 使用copilot和cocopilot使用GPT-4有风险，可能会导致Github封号，请自行注册小号😂
-> * 本项目只提供转发copilot和始皇的cocopilot接口🥰
+> * 使用coXXX有风险，可能会导致Github封号，请自行注册小号😂
+> * 本项目只提供转发coXXX接口🥰
 > * 如遇因为cpu不适应，不能部署，请把镜像调整为`yangclivia/gpt4-copilot-java:latest-jar`
 > * 感谢CaoYunzhou提供的实例🦄
 > * 如需二开请自行前往[源码库](https://github.com/YuWanTingbb/GPT4-Copilot)
