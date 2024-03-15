@@ -1,12 +1,12 @@
-# gpt4-copilot-java
+# unofficial-gpt4-api
 
-![Docker Image Size (tag)](https://img.shields.io/docker/image-size/yangclivia/gpt4-copilot-java/latest)![Docker Pulls](https://img.shields.io/docker/pulls/yangclivia/gpt4-copilot-java)[![GitHub Repo stars](https://img.shields.io/github/stars/Yanyutin753/gpt4-copilot-java?style=social)](https://github.com/Yanyutin753/gpt4-copilot-java/stargazers)
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/yangclivia/gpt4-copilot-java/latest)![Docker Pulls](https://img.shields.io/docker/pulls/yangclivia/gpt4-copilot-java)[![GitHub Repo stars](https://img.shields.io/github/stars/Yanyutin753/gpt4-copilot-java?style=social)](https://github.com/Yanyutin753/unofficial-gpt4-api/stargazers)
 
 ### 请给我免费的star⭐吧，十分感谢！
 
 ## 简介 
-#### [gpt4-copilot-java](https://github.com/Yanyutin753/gpt4-copilot-java-sh) 中转copilot，cocopilot，回复流畅，支持高并发，支持一键脚本部署，小白也能快速使用！
-#### [gpt4 copilot Java](https://github.com/Yanyutin753/gpt4-copilot-java-sh) Transfer Copilot, Cocopilot, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
+#### [unofficial-gpt4-api](https://github.com/Yanyutin753/gpt4-copilot-java-sh) 中转copilot，cocopilot，回复流畅，支持高并发，支持一键脚本部署，小白也能快速使用！
+#### [unofficial-gpt4-api](https://github.com/Yanyutin753/gpt4-copilot-java-sh) Transfer Copilot, Cocopilot, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
 
 -----
 
@@ -42,7 +42,7 @@
 ## 不准白嫖，请给我免费的star⭐吧，十分感谢！
 
 ## **linux部署**
-### 部署gpt4-copilot-java-sh(最强推荐)
+### 部署unofficial-gpt4-api(最强推荐)
 
 ```
 # 先安装docker and docker compose
@@ -60,7 +60,7 @@ sudo yum install git
 cd / && git clone https://gitee.com/yangyangEN/gpt4-copilot-java-sh.git
 
 # 国外服务器
-cd / && git clone https://github.com/Yanyutin753/gpt4-copilot-java-sh.git
+cd / && git clone https://github.com/Yanyutin753/unofficial-gpt4-api-sh.git
 
 # 运行脚本
 cd /gpt4-copilot-java-sh && sudo sh install.sh
@@ -167,8 +167,8 @@ docker-compose up -d
 - **gpt3.5模型 每个字符间隔时间sleep time 单位ms（默认0）**
      - `gpt3_sleepTime` = 0
      
-- **changeSleepTime's password**（默认为gpt4-copilot-java）
-     - `password` = gpt4-copilot-java
+- **changeSleepTime's password**（默认为unofficial-gpt4-api）
+     - `password` = unofficial-gpt4-api
     
 -  **自定义get_token_url**
      - `get_token_url` = https://api.cocopilot.org/copilot_internal/v2/token
