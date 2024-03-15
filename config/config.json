@@ -6,5 +6,8 @@
   "vscode_version": "vscode\/1.86.2",
   "serverPort": 8080,
   "maxPoolSize": 300,
-  "gpt4_sleepTime": 100
+  "gpt4_sleepTime": 100,
+  "one_selfCopilot_limit": 30,
+  "one_copilot_limit": 30,
+  "one_coCopilot_limit": 30
 }
