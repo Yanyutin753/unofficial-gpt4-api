@@ -202,8 +202,8 @@ docker-compose up -d
 > * 感谢CaoYunzhou提供的实例🦄
 > * 如需二开请自行前往[源码库](https://github.com/YuWanTingbb/GPT4-Copilot)
 
-### 新增群聊，点了⭐️可以进群讨论部署，我把你们拉进群，无广，广子踢掉
-<img src="https://github.com/Yanyutin753/PandoraNext-TokensTool/assets/132346501/6544e8ed-6673-48f9-95a6-c13255acbab1" width="300" height="300">
+### 如果你觉得我的开源项目对你有帮助，可以赞助我一杯咖啡嘛，十分感谢！！！
+<img src="https://github.com/Yanyutin753/RefreshToV1Api/assets/132346501/e5ab5e80-1cf2-4822-ae36-f9d0b11ed1b1" width="300" height="300">
 
 ### 请给我一个免费的⭐吧！！！
 
