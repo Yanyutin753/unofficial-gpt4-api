@@ -7,7 +7,7 @@ services:
     # 为该服务创建的容器的名称
     container_name: gpt4-copilot-java
     volumes:
-      - ./data/machineIdList.json:/machineIdList.json
+      - ./config/machineIdList.json:/machineIdList.json
       - ./config/config.json:/config.json
     ports:
       - "8081:8080"
