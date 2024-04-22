@@ -1,7 +1,7 @@
 {
 	"prefix":"/",
 	"password":"",
-	"gpt4_prompt":true
+	"gpt4_prompt":true,
 	"gpt3_sleepTime":0,
 	"gpt4_sleepTime":100,
 	"copilot_chat_version":"0.14.2024031401",
