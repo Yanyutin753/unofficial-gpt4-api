@@ -3,7 +3,7 @@ version: '3'
 services:        
   gpt4-copilot-java:  
     # 该服务使用的 Docker 镜像
-    image: yangclivia/gpt4-copilot-java:latest-native
+    image: yangclivia/gpt4-copilot-java:latest-jar
     # 为该服务创建的容器的名称
     container_name: gpt4-copilot-java
     volumes:
