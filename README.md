@@ -5,8 +5,8 @@
 ### 请给我免费的star⭐吧，十分感谢！
 
 ## 简介 
-#### [unofficial-gpt4-api](https://github.com/Yanyutin753/gpt4-copilot-java-sh) 中转copilot，cocopilot，回复流畅，支持高并发，支持一键脚本部署，小白也能快速使用！
-#### [unofficial-gpt4-api](https://github.com/Yanyutin753/gpt4-copilot-java-sh) Transfer Copilot, Cocopilot, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
+#### [unofficial-gpt4-api](https://github.com/Yanyutin753/gpt4-copilot-java-sh) 中转GPT4，回复流畅，支持高并发，支持一键脚本部署，小白也能快速使用！
+#### [unofficial-gpt4-api](https://github.com/Yanyutin753/gpt4-copilot-java-sh) Transfer GPT4, smooth response, supports high concurrency, supports one click script deployment, and even novices can use it quickly!
 
 -----
 
